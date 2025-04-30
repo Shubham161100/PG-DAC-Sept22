@@ -1,6 +1,3 @@
-//20 .Write a program to remove a given character from String?
-
-
 
 //20. Write a program to remove a given character from String?
 
